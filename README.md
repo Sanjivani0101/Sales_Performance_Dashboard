@@ -1,4 +1,4 @@
-# Sales_Performance_Dashboard
+# Sales_Performance_Dashboard_PowerBI
 The project focuses on analyzing sales performance, manufacturer contribution, category-wise revenue, and year-over-year business growth using Power BI.
 
 The objective was to transform raw sales data into actionable business insights by performing data cleaning, data modeling, DAX calculations, and interactive dashboard development.
